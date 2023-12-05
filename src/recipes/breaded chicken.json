@@ -1,0 +1,85 @@
+{
+    "title": "Breaded Chicken",
+    "ingredients": [
+        {
+            "name": "bread crumbs",
+            "amount": 0.5,
+            "unit": "cup"
+        },
+        {
+            "name": "chicken",
+            "amount": 1,
+            "unit": "breast(s)"
+        },
+        {
+            "name": "egg(s)",
+            "amount": 1,
+            "unit": "whole"
+        },
+        {
+            "name": "flour",
+            "amount": 0.25,
+            "unit": "cup(s)"
+        }
+    ],
+    "instructions": [
+        "Preheat oven to 400 degrees F",
+        "Prepare the rimmed baking sheet by spraying with cooking spray",
+        "Trim the fat from the chicken breast",
+        "Slice the chicken breasts into thin cutlets",
+        "Pat the chicken breasts dry with a paper towel",
+        "Prepare breading stations. To bread the chicken, dip both sides in flour, egg, and breadcrumbs. Place on the prepared baking sheet",
+        "Once the oven is preheated, place the pan in the oven for 25 minutes",
+        "After 25 minutes, temp the chicken. If the chicken is at 165 degrees F or more, it is done. Otherwise, place back in the oven at increments of 5 minutes.",
+        "Once the chicken is done, allow to rest for 5 minutes before enjoying."
+    ],
+    "videos": [
+        "",
+        "https://www.youtube.com/embed/A_H9v9uHvTw?si=d-dikzkUwOAJWaNy",
+        "https://www.youtube.com/embed/Ym-McZNmbzU?si=T6YJNftP-B5wNWYi",
+        "https://www.youtube.com/embed/l4ajG82f-KY?si=dvx5yg7mLAHNcb64",
+        "https://www.youtube.com/embed/XIA7Sp_-bNs?si=79qR0CQA8kMQ5Abw",
+        "https://www.youtube.com/embed/HS4H3lU8btw?si=LMx7qUxniuVGb3JS",
+        "",
+        "https://www.youtube.com/embed/yyGThutgDV4?si=nyXMcT0k6ydT7aYg",
+        ""
+    ],
+    "videoTranscripts": [
+        "",
+        "To prepare the baking sheet, take your non-stick cooking spray and spray all over the surface of your rimmed baking sheet.",
+        "To trim the fat off your chicken breast, identify all the white fleshy areas of the breast, and do your best to slice them off using your chef's knife.",
+        "To cut your chicken breast, place one hand firmly on the chicken breast to hold it against the cutting board. Place the knife on the thick side of the chicken breast ready to cut in and go forward. Keep your top hand out of the way of the knife as much as possible. You may not be able to get all the way through, and that's okay. You can always separate the halves, and finish it up with your chef's knife. This should leave you with two much thinner pieces of chicken.",
+        "To make sure your chicken is ready to be breaded, take your paper towel and lightly pat both of the halves of the chicken breast on both sides.",
+        "To bread our chicken, we're going to have three stations set up. The first will have flour, the second will have one egg beaten, and the third will have breadcrumbs. So I'm going to crack it in and mix it up with a fork until it's nice and beaten and ready for the chicken. With the chicken that we've already patted dry, we're going to go through each station and coat both sides of the chicken. So the first with the flour, I'll place one side in, flip it over. If I notice there are some empty spots I'm going to flip it over again, and then we're going to go into the egg mixture. Do the same thing on both sides, and then finally the breadcrumbs. One side and flip it over. Then we're going to take one baking sheet, and spray it with cooking spray I have one here that's already prepared. We're going to place the piece of chicken that we just breaded onto this cooking sheet, and we're going to spray the chicken on both sides. So here's the piece of chicken that I just breaded I'm going to take my cooking spray and give it a spritz on both sides. Then this is ready for the oven.",
+        "After your timer goes off, take your meat thermometer and stick it into the thickest part of each chicken breast. You want your chicken to read at at least 165° to make sure that it's fully cooked and safe to eat. So go through each of your half pieces of chicken, sticking it in the thickest part of the chicken breast, just to make sure it's up to temp. You go about halfway through the piece of meat just to make sure you're not touching the pan. If all of your pieces of chicken are at least 165 then this is good to let rest for about 5 minutes on the stove top before enjoying. If they're not, place it back in the oven for about 5 minutes and retemp the chicken."
+    ],
+    "materials": [
+        {
+            "name": "rimmed baking sheet",
+            "amount": 1
+        },
+        {
+            "name": "chefs knife",
+            "amount": 1
+        },
+        {
+            "name": "cutting board",
+            "amount": 1
+        },
+        {
+            "name": "paper towel",
+            "amount": 2
+        },
+        {
+            "name": "meat thermometer",
+            "amount": 1
+        },
+        {
+            "name": "deep dishes/pie dishes",
+            "amount": 3
+        }
+    ],
+    "calorieCount":500,
+    "prepTime":30,
+    "cookTime":30
+}

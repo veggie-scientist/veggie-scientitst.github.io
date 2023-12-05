@@ -1,0 +1,90 @@
+{
+    "title": "Hamburger",
+    "ingredients": [
+        {
+            "name": "",
+            "amount": 1,
+            "unit": "bun"
+        },
+        {
+            "name": "cheese",
+            "amount": 1,
+            "unit": "slices"
+        },
+        {
+            "name": "ground beef",
+            "amount": 0.3,
+            "unit": "pound"
+        },
+        {
+            "name": "olive oil",
+            "amount": 0.125,
+            "unit": "cup"
+        },
+        {
+            "name": "salt",
+            "amount": 1,
+            "unit": "teaspoon"
+        },
+        {
+            "name": "pepper",
+            "amount": 1,
+            "unit": "teaspoon"
+        }
+    ],
+    "instructions": [
+        "Preheat a frying pan on the oven on medium heat",
+        "Measure 1/3 lb of beef",
+        "Form the ground beef into patty shape",
+        "Rub 1/8 cup olive oil over the surface of the formed patty, then sprinkle with 1 tsp salt and 1 tsp pepper",
+        "Place the seasoned burger on the heated frying pan",
+        "Allow to cook until the bottom is browned and half the patty has changed color, then flip the burger",
+        "Place cheese on the burger, and leave on the pan until the burger is cooked through and reaches an internal temp of 160 degrees F",
+        "Place on a sliced bun and enjoy."
+    ],
+    "videos": [
+        "",
+        "https://www.youtube.com/embed/UXtgTqBmjTM?si=FiPuWRFexprmscOO",
+        "https://www.youtube.com/embed/dqyBpXllNzQ?si=xQPyfHXtKS6dblcY",
+        "https://www.youtube.com/embed/2gZY5QAFLWI?si=AljOTHUytxXsp7b-",
+        "https://www.youtube.com/embed/aZZfbjLS8oE?si=MVgvmgFP25Yg_hm5",
+        "https://www.youtube.com/embed/XIOA1vl56Ek?si=xQdXkkesJ9UBrDLq",
+        "https://www.youtube.com/embed/-bpALMQg6zI?si=JP6cJsggIMyKWvTm",
+        "https://www.youtube.com/embed/NGZooGxN6C8?si=DSPNCY8E82eCXwfS"
+    ],
+    "videoTranscripts": [
+        "",
+        "To prepare your burger into a patty shape, before we cook we're going to first measure out about a 3rd of a pound. So that's going to be about 5 1/2 oz. So you can do this one of two ways: you can do your best and estimate or you can get a kitchen scale and you can measure. So, I'm going to do my best to demonstrate both. I've got a pound of brown beef here so I'm going to do my best to estimate about a third and we'll see how close I am.So we want that to be about 5 and 1/2 oz. I'm a little bit over so I'll take a little bit off. And a little bit more, and there we go. Then your meat is weighed",
+        "After your meat is weighed and you have about a third of a pound, we're going to want to form it into a patty shape. So, I first start by using my hands and shaping it into a ball. Then, I'll push it down using one of the palms of my hand. And then, I'll shift it I'll hold it in my dominant hand, and I'll cup with the side of my palm and try to get it into that nice patty shape. So, I'm cupping and trying to get the edges nice and round, and I'll keep doing this until I get a nice patty shape. You normally don't want it too thick, I'm going to say about 3/4 of an inch, that way you make sure it cooks. You can also shape it so that it's about the size of your bun if you want to make sure that you're getting the right bun to meat ratio, but I'm just going to keep cupping until I've got a nicely formed patty. It doesn't have to be perfect just got to get it close.",
+        "The last step that we're going to do before we cook our patty is we're going to season it. I have about 1/8th of a cup of olive oil, and I have my salt and pepper shakers. So, I'm going to take my olive oil and I'm going to pour a little bit on and then what we're going to do is we're going to rub our olive oil all around the burger. We want to make sure we get both sides. This is going to help it cook nice and even. So you don't have to use it all; it's okay if it drips off. We just want to make sure that we get it nice and coated. I'm going to wash my hands and then I'm going to be back. All right, I washed my hands, and we're going to go to the last step of seasoning our burger patty. We're going to sprinkle salt and pepper on both sides. So I'm going to use one hand to hold the hamburger and I'm going to keep my other hand clean so that I can use my salt and pepper shakers. And so I'm just going to do my best and give a light sprinkle all on top then I'm going to flip it over my cutting board and do the same thing on the other side. And then you're ready to put it on the pan.",
+        "Once our pan is preheated, we're going to go ahead and put our burger on the pan. We're going to let this cook until it's brown on the bottom and then we're going to flip it over.",
+        "All right, this is cooked for about 5 minutes on medium heat, and I've zoomed in a little bit just to show you that you can actually see about halfway up the burger getting nice and brown. And that's going to tell us that it's just about time to flip. So, I'm going to go ahead and give it a flip, and then we're going to wait about the same amount of time on this side.",
+        "All right, I've let that cook for a couple of minutes. I'm going to go ahead and put my cheese on so that it can start to melt. You could also use pre-sliced cheese but I just decided to slice it for myself. And this will start to melt on the burger, so that by the time it's cooked all the way through the cheese will be nice and melted.",
+        "Once your burger has cooked on the opposite side, we're going to go ahead and temp it. Sticking it about halfway through the burger. As long as it reads above 160 then you're okay. Then you're ready to put on your bun and enjoy."
+    ],
+    "materials": [
+        {
+            "name": "1/8 measuring cup",
+            "amount": 1
+        },
+        {
+            "name": "teaspoon",
+            "amount": 1
+        },
+        {
+            "name": "frying pan",
+            "amount": 1
+        },
+        {
+            "name": "kitchen scale",
+            "amount": 1
+        },
+        {
+            "name": "spatula",
+            "amount": 1
+        }
+    ],
+    "calorieCount": 500,
+    "prepTime": 15,
+    "cookTime": 20
+}

@@ -1,0 +1,170 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.navbar-background,
+.navbar {
+  background-color: rgb(138, 198, 208);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.navbar-font {
+  color: white;
+}
+
+.mealBox {
+  border-style: solid;
+  margin: 10px;
+  padding-top: 30px;
+  padding-right: 10px;
+  padding-bottom: 50px;
+  padding-left: 10px;
+  background-color: rgb(138, 198, 208);
+}
+.numbox{
+  width:55px;
+}
+
+.meal-button {
+  background-color: rgb(85, 73, 113);
+  border: none;
+  color: white;
+  padding: 3px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  border-radius: 2px;
+}
+
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding-bottom: 10px;
+}
+.grid-item {
+  text-align: left;
+}
+/* Change the link color to #111 (black) on hover */
+li a:hover {
+  background-color: #111;
+}
+
+.title {
+  font-size: 40px;
+}
+
+#content1::after {
+  white-space: pre;
+  content: "\a"
+}
+
+#content2::before {
+  content: "\a";
+  white-space: pre;
+}
+
+#content3::before {
+  content: "\a";
+  white-space: pre;
+}
+
+#content3::after {
+  content: "\a";
+  white-space: pre;
+}
+
+.reicpeHeader {
+  font-size: 30px;
+}
+
+.dayHeader{
+  font-size: 30px;
+  text-align: center;
+}
+
+.mealHeader{
+  font-size: 20px;
+  text-align: center;
+  padding-bottom: 10px;
+  padding-top: 20px;
+}
+
+.step {
+  font-size: 20px;
+}
+
+.video {
+  background-color: rgb(138, 198, 208);
+}
+
+.flex-container {
+  display: flex;
+  border-style: solid;
+  justify-content: space-around;
+}
+
+/*from https://www.w3schools.com/css/tryit.asp?filename=trycss_dropdown_navbar2*/
+.ulnav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: rgb(138, 198, 208);
+  ;
+}
+
+.li-nav {
+  float: left;
+}
+
+.li-nav a,
+.dropbtn {
+  display: inline-block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.li-nav a:hover,
+.dropdown:hover .dropbtn,
+.dropdown-content a:hover {
+  background-color: rgb(85, 73, 113);
+}
+
+li.dropdown {
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f9f9f9;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+
+.dropdown:hover .dropdown-content {
+  display: block;
+}

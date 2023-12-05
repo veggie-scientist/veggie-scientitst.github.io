@@ -1,0 +1,57 @@
+{
+    "title": "Grilled Cheese",
+    "ingredients": [
+        {
+            "name": "bread",
+            "amount": 2,
+            "unit": "slices"
+        },
+        {
+            "name": "cheddar cheese",
+            "amount": 3,
+            "unit": "slices"
+        },
+        {
+            "name": "butter",
+            "amount": 2,
+            "unit": "tablespoons"
+        }
+    ],
+    "instructions": [
+        "Preheat a frying pan on the oven on low-medium heat",
+        "Take two pieces of bread, and spread about .5 tbsp butter on each side of both slices",
+        "Set both slices on the pan and allow the butter to melt for 2 minutes",
+        "Flip both pieces of bread, then set your 2 slices of cheese on top of one of the pieces of bread. Place the other slice on top of the slice with cheese on it, the side that was warmed by the pan on the side with the cheese",
+        "Cook until browned, then flip the sandwich and allow the other side to brown",
+        "Slice and serve"
+    ],
+    "videos": [
+        "",
+        "https://www.youtube.com/embed/c6M3CN8zduQ?si=lp1VMIo3GAlOs5-Q",
+        "https://www.youtube.com/embed/NWCb3AYJHVY?si=FoPDB0ryoQ_J4Vyo",
+        "https://www.youtube.com/embed/Qv1EoN2_bqc?si=WJQk7oAtRfI4g-DN",
+        "https://www.youtube.com/embed/dJm3354CrXc?si=L0TVJIsr_Afzvh91",
+        ""
+    ],
+    "videoTranscripts": [
+        "",
+        "To prepare your bread for your grilled cheese sandwich, you're going to need two slices of your preferred type of bread. Then, you're going to need about 2 tablespoons of butter and a butter knife. Make sure your butter is softened before trying to apply it to your bread. Then, for both sides of each slice of the bread, you're going to make sure you cover the entire piece. This will ensure that the bread browns as evenly as possible and help you get the best grilled cheese sandwich possible.",
+        "Once your pan is preheated, place your two prepared slices of bread side by side and leave for 2 minutes",
+        "Flip both sides of your bread, and then you're going to pile your cheddar cheese on one side. Cover the entire piece of bread. Place the warmed side of the other piece piece of bread down on side of the cheese. Cook for 4 minutes or until golden brown on the bottom. Depending on your stove, it'll take different amounts of time so be sure to keep an eye on it.",
+        "Once you checked that the bottom of your grilled cheese is nice and golden brown, take your spatula and flip the grilled cheese on the other side. Then, wait about the same amount of time that you waited for the first side, and your grilled cheese will be ready to eat.",
+        ""
+    ],
+    "materials": [
+        {
+            "name": "butter knife",
+            "amount": 1
+        },
+        {
+            "name": "frying pan",
+            "amount": 1
+        }
+    ],
+    "calorieCount": 500,
+    "prepTime": 10,
+    "cookTime": 20
+}
