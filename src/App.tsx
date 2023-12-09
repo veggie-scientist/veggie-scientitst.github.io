@@ -3,7 +3,7 @@ import './App.css';
 import { Routes, Route } from 'react-router-dom'
 import BasicsCourse from './Basics Course';
 import Navbar from './Navbar';
-import { MealPlanner, WeekRecipes } from './Meal Planner';
+import { WeekRecipes } from './Meal Planner';
 import About from './About';
 import { RecipeCard, Recipe } from './Recipe';
 
@@ -33,25 +33,6 @@ function App() {
       </Routes>
     </>
   );
-  /*
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn eep
-        </a>
-      </header>
-    </div>
-  );*/
-}
+ }
 
 export default App;
