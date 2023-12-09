@@ -4,7 +4,6 @@ import { Routes, Route } from 'react-router-dom'
 import BasicsCourse from './Basics Course';
 import Navbar from './Navbar';
 import { MealPlanner, WeekRecipes } from './Meal Planner';
-import Contact from './Contact';
 import About from './About';
 import { RecipeCard, Recipe } from './Recipe';
 

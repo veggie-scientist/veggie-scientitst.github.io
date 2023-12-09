@@ -1,4 +1,1 @@
-# Redirects from what the browser requests to what we serve
-/basicsCourse        https://www.petsofnetlify.com
-/mealPlanner.tsx     /mealPlanner
-/recipe/breaded_chicken /recipe/breaded_chicken
+/*  /index.tsx  200
