@@ -81,5 +81,6 @@
     ],
     "calorieCount":500,
     "prepTime":30,
-    "cookTime":30
+    "cookTime":30,
+    "originalRecipe":"https://www.spendwithpennies.com/crispy-breaded-chicken/"
 }

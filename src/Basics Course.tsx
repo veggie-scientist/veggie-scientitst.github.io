@@ -11,7 +11,7 @@ function BasicsCourse(): React.ReactElement {
       <div>
         Here you can find educational videos detailing basic cooking concepts required
         for the recipes in this tool, information about the meal planning tool,
-        and a nutritional guidelines framework for how to determine healthy meal choices.
+        and a nutritional guideline framework for how to determine healthy meal choices.
       </div>
       <div className="reicpeHeader">
         What are the Benefits of Cooking?
@@ -28,7 +28,7 @@ function BasicsCourse(): React.ReactElement {
             Lower body fat percentage<sup>4,8</sup>
           </li>
           <li>
-            Increase of fruit and vegetable intake<sup>4,7,8</sup>
+            Encourage healthy eating habits<sup>4,7,8</sup>
           </li>
           <li>
             Provide a sense of community and help people bond<sup>2,5</sup>

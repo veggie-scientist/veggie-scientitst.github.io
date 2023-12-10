@@ -128,6 +128,7 @@ interface recipeObj {
   calorieCount: number;
   title: string;
   ingredients: ingredientObj[];
+  originalRecipe: string;
 }
 
 export class Recipe {
@@ -140,12 +141,13 @@ export class Recipe {
   videos: string[];
   materials: Material[];
   videoTranscripts: string[];
+  originalRecipe: string;
 
   constructor(ingredients: Ingredient[], title: string,
     calorieCount: number, prepTime: number,
     cookTime: number, instructions: string[],
     videos: string[], materials: Material[],
-    videoTranscripts: string[]) {
+    videoTranscripts: string[], originalRecipe:string) {
 
     this.ingredients = ingredients;
     this.title = title;
@@ -156,6 +158,7 @@ export class Recipe {
     this.videos = videos;
     this.materials = materials;
     this.videoTranscripts = videoTranscripts;
+    this.originalRecipe = originalRecipe;
   }
 
   toJSON(): string {
@@ -190,7 +193,8 @@ export class Recipe {
         (mat) =>
           Material.parseJSON(mat)
       ),
-      obj.videoTranscripts
+      obj.videoTranscripts,
+      obj.originalRecipe
     );
   }
 }
@@ -216,6 +220,9 @@ export function RecipeCard(props: recipeProps): React.ReactElement {
         </div>
         <div>
           <img src={props.imagePath} />
+          <div>
+            Original Recipe and Image Source: {props.recipe.originalRecipe}
+          </div>
         </div>
         <div>
           <span id="content1">
@@ -273,13 +280,13 @@ export function RecipeCard(props: recipeProps): React.ReactElement {
           props.recipe.instructions.map
             (
               (item, index) =>
-                <span  key={"span0"+index}>
+                <span key={"span0" + index}>
 
                   <span className='step' id="content1" key={item + "" + index}>Step {index + 1} </span>
-                  <span  key={"span1"+index}>
+                  <span key={"span1" + index}>
                     {item}
                   </span>
-                  <div key={"div"+index}>
+                  <div key={"div" + index}>
                     <Video key={index} videoString={props.recipe.videos[index]} videoTranscript={props.recipe.videoTranscripts[index]} />
                   </div>
 

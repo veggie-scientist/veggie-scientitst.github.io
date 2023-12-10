@@ -16,7 +16,7 @@ function About(): React.ReactElement {
         </p>
         <p>
           Feel free to click around an explore! <br/>
-          Included in this tool are a basics course, a meal planning tool, and some recipes you can try out for yourself.
+          Included in this tool is a basics course, a meal planning tool, and some recipes you can try out for yourself.
         </p>
 
         <p>

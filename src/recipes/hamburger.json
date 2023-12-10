@@ -86,5 +86,6 @@
     ],
     "calorieCount": 500,
     "prepTime": 15,
-    "cookTime": 20
+    "cookTime": 20,
+    "originalRecipe":"https://www.inspiredtaste.net/23659/no-fuss-hamburger-recipe/"
 }
